@@ -2,6 +2,8 @@
 
 A simple calculator application built with Python and PyQt5.
 
+![Calculator Screenshot](images/calculator.png)
+
 ## Features
 
 - Addition
